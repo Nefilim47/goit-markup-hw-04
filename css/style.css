@@ -355,8 +355,8 @@ a {
 .customers-link:focus {
   border-color: var(--button-hover-color);
 }
-.item-svg:hover,
-.item-svg:focus {
+.customers-link:hover .item-svg,
+.customers-link:focus .item-svg {
   fill: var(--button-hover-color);
 }
 
